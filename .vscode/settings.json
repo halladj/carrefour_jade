@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/hambz/Uni/M1/S2/ALDI/TP/jade/lib/jade.jar"
+    ]
+}
